@@ -11,15 +11,6 @@ import Footer from "../components/Footer";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
-      <Head>
-        <title>Ridwan | Personal Data Analyst</title>
-        <meta
-          name="description"
-          content="Personal portfolio and data analytics services"
-        />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <Navbar />
 
       <main>
